@@ -1060,7 +1060,7 @@
         {
          "columns":25,
          "firstgid":321,
-         "image":"..\/mapmaking\/tilesets\/gather_walls_interior_1.6.png",
+         "image":"gather_walls_interior_1.6.png",
          "imageheight":7040,
          "imagewidth":800,
          "margin":0,
